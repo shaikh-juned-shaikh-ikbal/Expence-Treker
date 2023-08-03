@@ -1,0 +1,15 @@
+.titleHedding{
+    text-align: center;
+    font-size: x-large;
+    color: #32a852;
+    font-style: oblique;
+    border-radius: 5px;
+}
+.titleHedding span {
+    color:#a83271;
+    font: 800px;
+}
+
+
+
+
